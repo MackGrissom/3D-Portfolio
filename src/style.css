@@ -2,6 +2,7 @@
 {
     margin: 0;
     padding: 0;
+    
 }
 
 
@@ -30,9 +31,23 @@ html {
     font-size: 7vmin;
     padding-left: 10%;
     padding-right: 10%;
+
 }
 
 section:nth-child(odd)
 {
     justify-content: flex-end;
 }
+
+
+/* spotlight */
+/* #spotlight {
+   
+    opacity: 1;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+  } */
+
