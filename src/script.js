@@ -24,7 +24,7 @@ import gsap from 'gsap'
 const gui = new dat.GUI()
 
 const parameters = {
-    materialColor: '#ffeded'
+    materialColor: '#fcccff'
 }
 
 gui
